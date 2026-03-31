@@ -1,4 +1,4 @@
-# Helix — _Assured Workflow Orchestration Engine_
+# Helix — _Deterministic Distributed Execution Engine_
 
 ## 🧰 Technologies Used in Practice
 
